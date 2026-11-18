@@ -122,3 +122,7 @@ app.*.symbols
 !/dev/ci/**/Gemfile.lock
 node_modules
 .vscode/
+.env
+.env.*
+.env.local
+.env.production
